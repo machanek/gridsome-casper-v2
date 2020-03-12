@@ -58,7 +58,7 @@ import Pagination from "~/components/Pagination.vue";
 
 export default {
   metaInfo: {
-    title: "Hello, world!"
+    title: "Manager Medyczny!"
   },
   components: {
     ListItem,

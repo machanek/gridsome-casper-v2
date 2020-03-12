@@ -14,22 +14,6 @@
         </li>  
         </ul>
       </div>
-      <div class="w-full md:w-1/2 hidden md:block self-center">
-        <ul class="flex justify-center md:justify-end">
-          <li 
-          :key="element.name" 
-          v-for="(element,index) in $static.metadata.social" 
-          class="hover:text-white"
-          v-bind:class="{'mr-6' : index != Object.keys($static.metadata.social).length - 1}"
-        >
-          <span class="text-sm">
-          <a :href="element.link" target="_blank" rel="noopener noreferrer">
-            <font-awesome :icon="['fab', element.icon]"/>
-          </a>
-          </span>
-        </li>  
-        </ul>
-      </div>
     </div>
   </div>
 </template>

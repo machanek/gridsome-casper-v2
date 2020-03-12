@@ -1,12 +1,11 @@
 const path = require('path');
 
 module.exports = {
-  siteName: 'Casper',
-  siteDescription: 'an awesome Gridsome starter kit',
+  siteName: 'managermedyczny.pl',
+  siteDescription: 'o zdrowiu, diecie i medycynie!',
   siteUrl: 'http://localhost:8080',
 
-  plugins: [
-    {
+  plugins: [{
       use: 'gridsome-plugin-tailwindcss',
       options: {
         tailwindConfig: './tailwind.config.js',
@@ -30,7 +29,7 @@ module.exports = {
         typeName: 'Author',
         path: './content/author/*.md'
       }
-    }, 
+    },
     {
       use: '@gridsome/source-filesystem',
       options: {
@@ -48,17 +47,29 @@ module.exports = {
           }
         }
       }
+    },
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        cacheTime: 600000, // default        
+        config: {
+          '/*': {
+            changefreq: 'weekly',
+            priority: 0.5
+          }
+        }
+      }
     }
   ],
 
-  transformers : {
-    remark : {
-      plugins : [
+  transformers: {
+    remark: {
+      plugins: [
         '@noxify/gridsome-remark-table-align',
         ['@noxify/gridsome-remark-classes', {
           'paragraph': 'text-normal font-serif py-2',
           'table': 'table table-striped',
-          'tableCell[align=center]' : 'text-center',
+          'tableCell[align=center]': 'text-center',
           'tableCell[align=right]': 'text-right',
           'list[ordered=true]': 'list-decimal ml-5',
           'list:not([ordered=true])': 'list-disc ml-5'
@@ -68,11 +79,9 @@ module.exports = {
   },
 
   templates: {
-    Blog: [
-      {
-        path: '/blog/:title'
-      }
-    ],
+    Blog: [{
+      path: '/blog/:title'
+    }],
     Category: [{
       path: '/category/:title',
       component: '~/templates/Category.vue'

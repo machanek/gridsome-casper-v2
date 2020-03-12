@@ -5,7 +5,7 @@
         
           <div class="text-center w-full">
             <h2 class="self-center text-white">{{ $page.tag.title}}</h2>
-            A collection of <span class="self-center">{{ $page.tag.belongsTo.totalCount }} {{ postLabel }}</span> 
+            Znaleźliśmy <span class="self-center">{{ postLabel }}</span> 
           </div>
         
       </div>
@@ -81,7 +81,9 @@ export default {
   computed : {
     postLabel : function() {
       var pluralize = require('pluralize')
-      return pluralize('post',this.$page.tag.belongsTo.totalCount);
+      return this.$page.tag.belongsTo.totalCount != 1 
+      ? this.$page.tag.belongsTo.totalCount + " tagi"
+      : "11 tag";
     }
   },
   metaInfo() {

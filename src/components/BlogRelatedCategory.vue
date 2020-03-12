@@ -26,7 +26,7 @@
 
     </div>
     <div class="absolute inset-x-0 bottom-0 py-5 text-center text-sm">
-      <g-link :to="record.path">Show all items ( {{ record.belongsTo.totalCount }} )</g-link>
+      <g-link :to="record.path">Pokaż wszystkie ( {{ record.belongsTo.totalCount }} )</g-link>
     </div>
   </article>
 </template>

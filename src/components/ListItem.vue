@@ -30,7 +30,7 @@
           </li>
         </ul>
 
-        <span class="text-xs uppercase text-gray-700">{{record.timeToRead}} min read</span>
+        <span class="text-xs uppercase text-gray-700">Przeczytasz {{record.timeToRead}} Minuty</span>
       </footer>
     </div>
   </article>

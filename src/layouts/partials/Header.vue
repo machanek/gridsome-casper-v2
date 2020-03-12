@@ -1,13 +1,13 @@
 <template>
   <header>  
     
-    <div class="flex w-full relative text-gray-400 mx-auto bg-black px-4 sm:px-0">
+    <div class="flex w-full relative text-gray-300 mx-auto bg-black px-4 sm:px-0">
       <div class="container w-full mx-auto flex flex-wrap">  
-        <div class="w-3/12 sm:w-2/12 my-5">
+        <div class="w-3/12 sm:w-2/12 my-5 text-2xl">
           <span>
-            <font-awesome :icon="['fas', 'ghost']" class="mt-2 mr-6 sm:mr-3"></font-awesome>
+            <font-awesome :icon="['fas', 'heartbeat']" class="mt-2 mr-6 sm:mr-3"></font-awesome>
           </span>
-          <span class=" text-white">{{ $static.metadata.siteName }}</span>
+          
         </div>
         <div class="w-9/12 sm:w-10/12">
           <div class="flex-1 text-gray-500 text-xs text-center my-6 pt-1">

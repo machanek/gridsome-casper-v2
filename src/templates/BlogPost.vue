@@ -58,8 +58,8 @@
       image_caption
       excerpt
       content
-      humanTime : created(format:"DD MMMM YYYY")
-      datetime : created(format:"ddd MMM DD YYYY hh:mm:ss zZ")
+      humanTime : created(format:"DD MMMM YYYY", locale: "pl")
+      datetime : created(format:"ddd MMM DD YYYY hh:mm:ss zZ", locale: "pl")
       tags {
         id
         title

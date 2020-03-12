@@ -6,34 +6,39 @@
       "external": false
     },
     {
-      "name": "About",
-      "link": "/about",
+      "name": "Medycyna",
+      "link": "/medycyna",
       "external": false
     },
     {
-      "name": "Getting started",
-      "link": "/category/getting-started",
+      "name": "Zdrowie",
+      "link": "/category/zdrowie",
+      "external": false
+    },
+    {
+      "name": "Dieta",
+      "link": "/category/dieta",
       "external": false
     }
   ],
   "footerNavigation": [{
-      "name": "Latest Posts",
+      "name": "Nowości",
       "link": "/",
       "external" : false
     },
     {
-      "name": "Facebook",
-      "link": "https://www.facebook.com",
-      "external": true
-    },
-    {
-      "name": "Gridsome",
-      "link": "https://www.gridsome.org",
-      "external": true
+      "name": "O Nas",
+      "link": "/about",
+      "external": false
     },
     {
       "name": "RSS",
       "link": "/rss.xml",
+      "external": false
+    },
+    {
+      "name": "Kontakt",
+      "link": "/category/kontakt",
       "external": false
     }
   ]
