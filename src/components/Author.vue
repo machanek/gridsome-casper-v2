@@ -20,7 +20,7 @@
       <g-link
         :to="author.path"
         class="text-xs bg-transparent hover:text-blue-700 font-semibold py-2 px-4 border hover:border-blue-500 border-gray-600 text-gray-700 rounded-full"
-      >Show more</g-link>
+      >Więcej</g-link>
     </div>
   </div>
 </template>
