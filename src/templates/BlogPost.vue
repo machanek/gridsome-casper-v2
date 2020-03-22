@@ -14,7 +14,7 @@
       <h1 class="text-4xl font-bold">{{ $page.blog.title}}</h1>
     </section>
     <section class="post-image mx-auto w-full xl:px-20">
-      <g-image :src="$page.blog.image"></g-image>
+      <g-image class="mx-auto" :src="$page.blog.image"></g-image>
     </section>
 
     <section class="post-content container mx-auto bg-white relative p-10 font-serif text-gray-700">
