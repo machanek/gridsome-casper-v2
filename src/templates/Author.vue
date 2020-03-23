@@ -15,11 +15,12 @@
           <div class="w-full text-center pb-5">
             <h2 class="text-white pb-0 mb-0">{{ $page.author.name}}</h2>
             <span class="text-lg">{{ $page.author.bio }}</span>
-            <span>{{ $page.author.belongsTo.totalCount }} {{ postLabel }}</span> 
+            
+             
           </div>
           <div class="w-full text-center pb-32">
 
-              {{ $page.author.belongsTo.totalCount }} {{ postLabel }} 
+              Autor {{ postLabel }} 
               &nbsp;&middot;&nbsp;
               <a :href="$page.author.facebook" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-white">
                 <font-awesome :icon="['fab', 'facebook']"/>
@@ -112,7 +113,9 @@ export default {
   computed : {
     postLabel : function() {
       var pluralize = require('pluralize')
-      return pluralize('post',this.$page.author.belongsTo.totalCount);
+      return this.$page.author.belongsTo.totalCount != 1
+      ? this.$page.author.belongsTo.totalCount + " artykułów"
+      : "1 artykuł";
     }
   },
   metaInfo() {
