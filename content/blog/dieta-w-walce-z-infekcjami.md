@@ -19,8 +19,6 @@ Okres jesienno-zimowy to pora roku, którą możemy przetrwać dzięki zwiększe
 
 To właśnie w nich znajduje się witamina, która może uchronić nas przed wieloma poważnymi problemami ze zdrowiem. Jest ona przecież jedną z najważniejszych dla naszego układu immunologicznego substancji, warto zatem zadbać o to, by w okresie największego zagrożenia infekcjami nie zabrakło jej w naszym menu. Warto też pamiętać, że nasz organizm nie jest w stanie magazynować witaminy C, zatem regularne sięganie po produkty będące jej źródłami staje się sprawą bardzo ważną dla naszego zdrowia.
 
-![Otyłość](.\images\watroba.jpg "skladdniki wspomagajace otpornosc w diecie")
-
 ## Minerały w diecie
 
 Wielki wpływ na nasz układ odpornościowy ma też podaż żelaza, warto zatem włączyć do swego menu takie produkty, jak chude mięso czy nasiona roślin strączkowych. Doskonałymi źródłami żelaza są też ciemne kasze oraz razowe pieczywo. A co z cynkiem? I ten składnik odżywczy rewelacyjnie wspiera naturalną odporność organizmu każdego z nas. 

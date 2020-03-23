@@ -81,8 +81,8 @@ export default {
     postLabel: function() {
       var pluralize = require("pluralize");
       return this.$page.category.belongsTo.totalCount != 1
-        ? this.$page.category.belongsTo.totalCount + " wpisy"
-        : "1 wpis";
+        ? this.$page.category.belongsTo.totalCount + " artykułów"
+        : "1 artykuł";
     }
   },
   metaInfo() {
