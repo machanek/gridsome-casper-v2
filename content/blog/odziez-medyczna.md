@@ -3,7 +3,7 @@ title: Odzież medyczna
 tags: ochrona zdrowia
 category: Medycyna
 excerpt: Jednorazowa odzież jest gwarantem czystości i aseptyki, co z punktu widzenia pacjenta jest niezwykle korzystne.
-created: 2019-18-03
+created: 2019-03-18
 image: ./images/Odziez-medyczna.jpg
 image_caption: Photo created by Freepik
 author: author1
