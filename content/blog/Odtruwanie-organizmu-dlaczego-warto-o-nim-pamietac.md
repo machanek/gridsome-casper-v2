@@ -28,7 +28,7 @@ Kuracja oczyszczająca organizm nie stanowi większego wyzwania. Wystarczy, że 
 
 Sprawdzonym w walce z toksynami duetem jest…zwykła woda z dodatkiem cytryny. Wypijanie większej ilości wody pomoże nam wypłukać z organizmu nadmierną ilość toksyn, z kolei sok z cytryny poprawi perystaltykę jelit i wspomoże wątrobę. Drugi napój, który ułatwi nam odtruwanie organizmu, to zielona herbata. Jest ona cenionym źródłem silnych antyutleniaczy, dzięki czemu już dawno zajęła bardzo ważne miejsce w profilaktyce chorób nowotworowych.
 
-![Odtruwanie organizmu](.\images\warzywa-owoce-mineraly.jpg "skladdniki wspomagajace otpornosc w diecie")
+![Odtruwanie organizmu](.\images\warzywa-owoce-mineraly.jpg "skladniki wspomagajace otpornosc w diecie")
 
 By osiągnąć wspaniałe efekty, warto też włączyć do swej diety takie produkty, jak awokado oraz brokuły. Warto też pamiętać o burakach, dzięki którym nasz przewód pokarmowy może sprawniej funkcjonować. Warzywa te pomagają jednocześnie w oczyszczaniu organizmu z mocznika, są też jednym ze skuteczniejszych leków na zaparcia.
 
