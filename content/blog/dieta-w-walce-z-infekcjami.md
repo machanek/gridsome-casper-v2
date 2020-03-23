@@ -4,7 +4,7 @@ tags: tycie, nadwaga, infekcje
 category: Zdrowie
 excerpt: Okres jesienno-zimowy to wielkie wyzwanie dla naszego organizmu. Jak zadbać naturalną odporność organizmu.
 created: 2020-01-17
-image: ./images/Dieta w walce z infekcjami.jpg
+image: ./images/Dieta-w-walce-z-infekcjami.jpg
 image_caption: Photo created by v.ivash on Freepik
 author: author2
 ---
@@ -19,7 +19,7 @@ Okres jesienno-zimowy to pora roku, którą możemy przetrwać dzięki zwiększe
 
 To właśnie w nich znajduje się witamina, która może uchronić nas przed wieloma poważnymi problemami ze zdrowiem. Jest ona przecież jedną z najważniejszych dla naszego układu immunologicznego substancji, warto zatem zadbać o to, by w okresie największego zagrożenia infekcjami nie zabrakło jej w naszym menu. Warto też pamiętać, że nasz organizm nie jest w stanie magazynować witaminy C, zatem regularne sięganie po produkty będące jej źródłami staje się sprawą bardzo ważną dla naszego zdrowia.
 
-![Otyłość](.\images\warzywa-owoce-mineraly.jpg "skladdniki wspomagajace otpornosc w diecie")
+![Otyłość](.\images\watroba.jpg "skladdniki wspomagajace otpornosc w diecie")
 
 ## Minerały w diecie
 
