@@ -3,7 +3,7 @@ title: Odtruwanie organizmu dlaczego warto o nim pamiętać?
 tags: detoks, organizm, infekcje, człowiek
 category: Dieta
 excerpt: Organizm narażony jest na kontakt z ogromną ilością substancji, które mogą się okazać sporym zagrożeniem dla naszego zdrowia
-created: 2019-21-04
+created: 2019-05-04
 image: ./images/odtruwanie-organizmu-dla-czego-warto.jpg
 image_caption: Photo created by v.ivash on Freepik
 author: author3
