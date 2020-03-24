@@ -5,5 +5,5 @@ bio: Podczas studiów medycznych zainteresowałam się szeroko pojętym blogowan
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
-image: ./images/ewelina-zawierucha.jpg
+image: ./images/ewelinka.jpg
 ---
