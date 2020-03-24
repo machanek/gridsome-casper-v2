@@ -30,7 +30,7 @@ Witamina B6 jest niezbędna do wspierania reakcji biochemicznych w układzie odp
 
 Witamina E jest silnym przeciwutleniaczem, który pomaga organizmowi zwalczyć infekcję. Produkty bogate w witaminę E obejmują orzechy, nasiona i szpinak.
 
-![Witaminy odporność](./mages/witaminy-wazne-dla-twojej-odpornosci.jpg "Jak witaminy są ważne dla odporności organizmu")
+![Witaminy odporność](./images/witaminy-wazne-dla-twojej-odpornosci.jpg "Jak witaminy są ważne dla odporności organizmu")
 
 ### Trik witaminowy
 
