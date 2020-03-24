@@ -24,4 +24,3 @@ To właśnie w nich znajduje się witamina, która może uchronić nas przed wie
 Wielki wpływ na nasz układ odpornościowy ma też podaż żelaza, warto zatem włączyć do swego menu takie produkty, jak chude mięso czy nasiona roślin strączkowych. Doskonałymi źródłami żelaza są też ciemne kasze oraz razowe pieczywo. A co z cynkiem? I ten składnik odżywczy rewelacyjnie wspiera naturalną odporność organizmu każdego z nas. 
 
 Jeśli chcemy, by nasza dieta dostarczała nam odpowiednich ilości tej substancji, powinniśmy możliwie jak najczęściej sięgać po takie produkty, jak jaja, ryby oraz owoce morza. Spore ilości cynku można też znaleźć w kaszy gryczanej oraz w otrębach pszennych. I one powinny częściej pojawiać się w naszym menu, szczególnie w tak trudnym dla naszego organizmu okresie, jakim jest jesień oraz zima.
-
