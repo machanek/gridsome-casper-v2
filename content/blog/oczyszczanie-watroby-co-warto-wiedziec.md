@@ -26,7 +26,7 @@ Unikanie potraw tłustych, żywności przetworzonej oraz słodyczy to podstawa. 
 
 Skutecznie oczyszczanie wątroby może ułatwić tak prosty dodatek, jakim jest woda z cytryną. Sok z cytryny sprawia, że nasza wątroba lepiej radzi sobie z produkcją enzymów, a to pomaga nam utrzymać lepszą formę. Detoks wątroby ułatwia też sięganie po jeden z najskuteczniejszych leków stworzonych przez naturę, czyli po czosnek. 
 
-![warzywa owoce oczyszczanie wątroby](.\images\warzywa-owoce-proces-oczyszczania-watroby.jpg "Proces oczyszczania wątroby")
+![warzywa owoce oczyszczanie wątroby](./images/warzywa-owoce-proces-oczyszczania-watroby.jpg "Proces oczyszczania wątroby")
 
 W oczyszczaniu wątroby pomocny będzie też grejpfrut, znany jako rewelacyjny pogromca tłuszczu oraz wolnych rodników. Buraki są kolejnym dodatkiem do menu mającego wspierać wątrobę. Dzięki tym warzywom można pozbyć się z organizmu wielu toksyn, a przy okazji poprawić proces filtracji krwi. 
 

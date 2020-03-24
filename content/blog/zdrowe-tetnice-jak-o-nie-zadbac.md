@@ -20,7 +20,7 @@ Przede wszystkim o tym, jak ważną sprawą dla każdego z nas jest zdrowa dieta
 
 Nasze tętnice nie są w stanie dostarczyć do serca odpowiedniej ilości krwi, co skutkować może rozwojem takich chorób, jak dusznica bolesna, udar czy zawał serca. Warto zatem pamiętać o tym, by staranniej dobierać te produkty spożywcze, które trafiają na nasz talerz. Warto też zadbać o codzienną porcję ruchu oraz o to, by w naszym życiu znalazł się czas na przeprowadzanie prostych kuracji, pozwalających nam na systematyczne oczyszczanie tętnic. Co może nam pomóc?
 
-![Problemy z tętnicami](.\images\jak-oczyszczac-tetnice.jpg "Sposób na zdrwie układu krążenia")
+![Problemy z tętnicami](./images/jak-oczyszczac-tetnice.jpg "Sposób na zdrwie układu krążenia")
 
 ## Jak oczyszczać tętnice?
 

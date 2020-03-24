@@ -16,7 +16,7 @@ author: author3
 
 Regularne odtruwanie organizmu to najlepszy sposób na to, by pozbyć się z niego nadmiaru niebezpiecznych toksyn. Wprawdzie znaczna część tych niebezpiecznych substancji jest z naszego organizmu na bieżąco usuwana dzięki intensywnej pracy nerek i wątroby, warto jednak pamiętać, że tym zapracowanym narządom przyda się od czasu do czasu dodatkowe wsparcie.
 
-![Otyłość](.\images\detoks-a-infekcje.jpg "skladniki wspomagajace otpornosc w diecie")
+![Otyłość](./images/detoks-a-infekcje.jpg "skladniki wspomagajace otpornosc w diecie")
 
 ## Kiedy warto postawić na kurację odtruwającą organizm?
 

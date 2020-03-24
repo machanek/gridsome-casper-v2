@@ -16,7 +16,7 @@ author: author2
 
 Układ odpornościowy to skomplikowany mechanizm obronny, składający się z wielu komórek, tkanek oraz organów. To dzięki ich sprawnej pracy jesteśmy zabezpieczeni przed wieloma infekcjami, za rozwój których odpowiadają bakterie, grzyby oraz wirusy. Im silniejsza nasza odporność, tym mniej problemów ze zdrowiem. Sprawnie działający układ immunologiczny jest wstanie w porę rozpoznać zagrożenie, a następnie – rozpocząć z nim skuteczną walkę.
 
-![Układ immunologiczny](.\images\jak-boni-nas-uklad-immunologiczny.jpg "Układ immunologiczny co warto wiedzieć na jego temat")
+![Układ immunologiczny](./images/jak-boni-nas-uklad-immunologiczny.jpg "Układ immunologiczny co warto wiedzieć na jego temat")
 
 ## Z czego zbudowany jest nasz układ odpornościowy?
 
