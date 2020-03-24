@@ -5,5 +5,5 @@ bio: Ukończyłem z wyróżnieniem Uniwersytet Jagielloński w Krakowie na wydzi
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
-image: ./images/piotr-kwiatkowski.jpg
+image: ./images/piotr.jpg
 ---

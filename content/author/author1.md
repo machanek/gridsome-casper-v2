@@ -5,5 +5,5 @@ bio: Od siedmiu lat praktykuję terapię czaszkowo-krzyżową, której uczyłam 
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
-image: ./images/agata-blonska.jpg
+image: ./images/agata.jpg
 ---
