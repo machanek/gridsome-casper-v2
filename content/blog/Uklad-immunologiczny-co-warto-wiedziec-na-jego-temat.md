@@ -3,8 +3,8 @@ title: Układ immunologiczny - co warto wiedzieć na jego temat
 tags: immunologia, odporność, człowiek
 category: Medycyna
 excerpt: Układ immunologiczny to niezwykły mechanizm, który zapewnia naszemu organizmowi maksymalną ochronę przed chorobami.?
-created: 2019-106-12
-image: ./images/Uklad-immunologiczny-co-warto-wiedziec-na-jego-temat.jpg
+created: 2019-06-12
+image: ./images/uklad-immunologiczny-co-warto-wiedziec-na-jego-temat.jpg
 image_caption: Photo created by Freepik
 author: author2
 ---

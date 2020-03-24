@@ -4,7 +4,7 @@ tags: tycie, nadwaga, infekcje
 category: Zdrowie
 excerpt: Okres jesienno-zimowy to wielkie wyzwanie dla naszego organizmu. Jak zadbać naturalną odporność organizmu.
 created: 2020-01-17
-image: ./images/Dieta-w-walce-z-infekcjami.jpg
+image: ./images/dieta-w-walce-z-infekcjami.jpg
 image_caption: Photo created by v.ivash on Freepik
 author: author2
 ---

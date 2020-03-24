@@ -4,7 +4,7 @@ tags: brzuch, ból
 category: Zdrowie
 excerpt: Skąd bierze się ból i co możemy zrobić, by możliwie jak najszybciej odzyskać dobrą zdrowie?
 created: 2019-06-28
-image: ./images/Jak-powstajee-bol-i-co-robic.jpg
+image: ./images/jak-powstajee-bol-i-co-robic.jpg
 image_caption: Photo created by Freepik
 author: author3
 ---
@@ -20,7 +20,7 @@ By utrzymać przewód pokarmowy w dobrej formie i nie narażać się na problemy
 
 Jedzmy na spokojnie, w mniejszych ilościach, za to częściej i o stałych porach. Sprawdzajmy, w jaki sposób nasz organizm reaguje na poszczególne pokarmy i wykluczajmy ze swej diety te, po których zaczynają nam dokuczać bóle brzucha. Ponieważ ból taki często jest skutkiem napięcia nerwowego, powinniśmy w porę panować te techniki relaksacyjne, dzięki którym walka ze stresem staje się łatwiejsza. Joga, medytacja, ćwiczenia oddechowe lub długie spacery – oto najprostsze sposoby na pokonanie stresu i odzyskanie lepszej formy.
 
-![Ból brzucha](.\images\Jak-pokonac-bole-brzucha.jpg "Jak radzić sobie z bólem brzucha")
+![Ból brzucha](.\images\jak-pokonac-bole-brzucha.jpg "Jak radzić sobie z bólem brzucha")
 
 ## Jak sobie poradzić z bólem brzucha?
 

@@ -4,7 +4,7 @@ tags: odporność, człowiek, wątroba
 category: Medycyna
 excerpt: Zdrowa wątroba to cenny skarb. Im wcześniej o niego zadbamy, tym lepiej dla nas
 created: 2019-02-22
-image: ./images/Oczyszczanie-watroby-co-warto-wiedziec.jpg
+image: ./images/oczyszczanie-watroby-co-warto-wiedziec.jpg
 image_caption: Photo created by Freepik
 author: author2
 ---
