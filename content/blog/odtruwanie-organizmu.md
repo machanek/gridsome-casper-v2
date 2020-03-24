@@ -4,7 +4,7 @@ tags: detoks, organizm, infekcje, człowiek
 category: Dieta
 excerpt: Organizm narażony jest na kontakt z ogromną ilością substancji, które mogą się okazać sporym zagrożeniem dla naszego zdrowia
 created: 2019-05-04
-image: ./images/odtruwanie-organizmu-dla-czego-warto.jpg
+image: ./images/odtruwanie_organizmu_dla_czego_warto.jpg
 image_caption: Photo created by v.ivash on Freepik
 author: author3
 ---
@@ -16,7 +16,7 @@ author: author3
 
 Regularne odtruwanie organizmu to najlepszy sposób na to, by pozbyć się z niego nadmiaru niebezpiecznych toksyn. Wprawdzie znaczna część tych niebezpiecznych substancji jest z naszego organizmu na bieżąco usuwana dzięki intensywnej pracy nerek i wątroby, warto jednak pamiętać, że tym zapracowanym narządom przyda się od czasu do czasu dodatkowe wsparcie.
 
-![Otyłość](./images/detoks-a-infekcje.jpg "skladniki wspomagajace otpornosc w diecie")
+![Otyłość](./images/detoks_a_infekcje.jpg "skladniki wspomagajace otpornosc w diecie")
 
 ## Kiedy warto postawić na kurację odtruwającą organizm?
 
@@ -27,7 +27,6 @@ Detoks przyda się z pewnością każdemu, kto często narażony jest na stres. 
 Kuracja oczyszczająca organizm nie stanowi większego wyzwania. Wystarczy, że do swojej diety wprowadzimy produkty intensywnie odtruwające organizm, dzięki którym z naszego organizmu szybciej usunięte zostaną szkodliwe substancje. Jakie produkty mogą się dla nas okazać cennym wsparciem?
 
 Sprawdzonym w walce z toksynami duetem jest…zwykła woda z dodatkiem cytryny. Wypijanie większej ilości wody pomoże nam wypłukać z organizmu nadmierną ilość toksyn, z kolei sok z cytryny poprawi perystaltykę jelit i wspomoże wątrobę. Drugi napój, który ułatwi nam odtruwanie organizmu, to zielona herbata. Jest ona cenionym źródłem silnych antyutleniaczy, dzięki czemu już dawno zajęła bardzo ważne miejsce w profilaktyce chorób nowotworowych.
-
 
 By osiągnąć wspaniałe efekty, warto też włączyć do swej diety takie produkty, jak awokado oraz brokuły. Warto też pamiętać o burakach, dzięki którym nasz przewód pokarmowy może sprawniej funkcjonować. Warzywa te pomagają jednocześnie w oczyszczaniu organizmu z mocznika, są też jednym ze skuteczniejszych leków na zaparcia.
 

@@ -4,7 +4,7 @@ tags: odporność, człowiek, wątroba
 category: Medycyna
 excerpt: Zdrowa wątroba to cenny skarb. Im wcześniej o niego zadbamy, tym lepiej dla nas
 created: 2019-02-22
-image: ./images/oczyszczanie-watroby-co-warto-wiedziec.jpg
+image: ./images/oczyszczanie_watroby_co_warto_wiedziec.jpg
 image_caption: Photo created by Freepik
 author: author2
 ---
@@ -26,7 +26,7 @@ Unikanie potraw tłustych, żywności przetworzonej oraz słodyczy to podstawa. 
 
 Skutecznie oczyszczanie wątroby może ułatwić tak prosty dodatek, jakim jest woda z cytryną. Sok z cytryny sprawia, że nasza wątroba lepiej radzi sobie z produkcją enzymów, a to pomaga nam utrzymać lepszą formę. Detoks wątroby ułatwia też sięganie po jeden z najskuteczniejszych leków stworzonych przez naturę, czyli po czosnek. 
 
-![warzywa owoce oczyszczanie wątroby](./images/warzywa-owoce-proces-oczyszczania-watroby.jpg "Proces oczyszczania wątroby")
+![warzywa owoce oczyszczanie wątroby](./images/warzywa_owoce_proces_oczyszczania_watroby.jpg "Proces oczyszczania wątroby")
 
 W oczyszczaniu wątroby pomocny będzie też grejpfrut, znany jako rewelacyjny pogromca tłuszczu oraz wolnych rodników. Buraki są kolejnym dodatkiem do menu mającego wspierać wątrobę. Dzięki tym warzywom można pozbyć się z organizmu wielu toksyn, a przy okazji poprawić proces filtracji krwi. 
 

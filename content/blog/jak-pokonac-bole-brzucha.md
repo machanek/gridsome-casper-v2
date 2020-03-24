@@ -4,7 +4,7 @@ tags: brzuch, ból
 category: Zdrowie
 excerpt: Skąd bierze się ból i co możemy zrobić, by możliwie jak najszybciej odzyskać dobrą zdrowie?
 created: 2019-06-28
-image: ./images/jak-powstajee-bol-i-co-robic.jpg
+image: ./images/jak_powstaje_bol_i_co_robic.jpg
 image_caption: Photo created by Freepik
 author: author3
 ---

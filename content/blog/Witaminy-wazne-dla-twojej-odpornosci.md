@@ -4,9 +4,9 @@ tags: witaminy, odporność, owoce, warzywa
 category: Medycyna
 excerpt: Jedzenie odżywczych pokarmów bogatych w niektóre witaminy może pomóc twojemu układowi odpornościowemu zwalczyć chorobę
 created: 2019-04-13
-image: ./images/witaminy-wspomagajace-odpornosc.jpg
+image: ./images/witaminy_wspomagajace_odpornosc.jpg
 image_caption: Photo created by Freepik
-author: author1
+author: author2, author1
 ---
 
 **Jedzenie odżywczych pokarmów bogatych w niektóre witaminy może pomóc twojemu układowi odpornościowemu zwalczyć chorobę. Warto bliżej przyjrzeć się tym witaminom, uzyskać informacje o tym, w jakich pokarmach można je znaleźć i jak mogą pomóc ci zachować zdrowie.**
@@ -30,7 +30,7 @@ Witamina B6 jest niezbędna do wspierania reakcji biochemicznych w układzie odp
 
 Witamina E jest silnym przeciwutleniaczem, który pomaga organizmowi zwalczyć infekcję. Produkty bogate w witaminę E obejmują orzechy, nasiona i szpinak.
 
-![Witaminy odporność](./images/witaminy-wazne-dla-twojej-odpornosci.jpg "Jak witaminy są ważne dla odporności organizmu")
+![Witaminy odporność](./images/witaminy_wazne_dla_twojej_odpornosci.jpg "Jak witaminy są ważne dla odporności organizmu")
 
 ### Trik witaminowy
 
