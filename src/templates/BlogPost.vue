@@ -140,7 +140,6 @@
 import Author from "~/components/Author.vue";
 import ListItem from "~/components/ListItem.vue";
 import BlogRelatedCategory from "~/components/BlogRelatedCategory.vue";
-
 export default {
   components: {
     Author,

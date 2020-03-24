@@ -105,7 +105,6 @@
 <script>
 import ListItem from "~/components/ListItem.vue";
 import Pagination from "~/components/Pagination.vue";
-
 export default {
   components: {
     Pagination,
