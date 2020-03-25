@@ -82,8 +82,8 @@ export default {
     postLabel : function() {
       var pluralize = require('pluralize')
       return this.$page.tag.belongsTo.totalCount != 1 
-      ? this.$page.tag.belongsTo.totalCount + " tagi"
-      : "11 tag";
+      ? this.$page.tag.belongsTo.totalCount + " wpisy"
+      : "1 wpis";
     }
   },
   metaInfo() {
