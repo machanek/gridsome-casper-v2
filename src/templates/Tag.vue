@@ -11,7 +11,7 @@
       </div>
     </div>
 
-    <div class="container mx-auto px-6 sm:px-0 hidden md:block">
+    <div class="container mx-auto px-6 sm:px-0">
       <div class="post-feed">
         <ListItem v-for="edge in $page.tag.belongsTo.edges" :key="edge.node.id" :record="edge.node" />
       </div>
