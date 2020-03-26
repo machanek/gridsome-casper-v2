@@ -115,7 +115,7 @@ export default {
     postLabel : function() {
       var pluralize = require('pluralize')
       return this.$page.author.belongsTo.totalCount != 1
-      ? this.$page.author.belongsTo.totalCount + " artykuły"
+      ? this.$page.author.belongsTo.totalCount + " artykułów"
       : "1 artykuł";
     }
   },
