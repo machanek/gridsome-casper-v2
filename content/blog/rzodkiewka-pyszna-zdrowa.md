@@ -30,3 +30,5 @@ Nasiona kupimy w sklepie ogrodniczym lub kwiaciarni. Siejemy je w odległości o
 Liście młodych rzodkiewek również są jadalne. Można udekorować nimi sałatkę lub zrobić z nich pyszne pesto do makaronu. Liście są wyraziste w smaku i również bardzo zdrowe. Oprócz całej gamy witamin zawierają chlorofil, będący bogactwem magnezu i przeciwutleniaczy. Jeżeli wybrana przez nas odmiana rzodkiewki, okaże się bardzo ostra, wcale nie musimy jeść jej na surowo. 
 
 Warzywo to doskonale nadaje się także do duszenia, smażenia i gotowania. Na surowo jest nieodzownym składnikiem kanapek i sałatek, a na ciepło zup i zapiekanek. Warto założyć swoją własną ekologiczną hodowlę rzodkiewek i cieszyć się smakiem zebranych przez siebie warzyw.
+
+Od siebie serdecznie mogę polecić skup warzyw[Skup warzyw](https://polmar.net/skup-warzyw)
