@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteName: 'managermedyczny.pl',
   siteDescription: 'o zdrowiu, diecie i medycynie!',
-  siteUrl: 'https://managermedyczny.pl',
+  siteUrl: 'http://localhost:8080',
 
   plugins: [{
       use: 'gridsome-plugin-tailwindcss',
