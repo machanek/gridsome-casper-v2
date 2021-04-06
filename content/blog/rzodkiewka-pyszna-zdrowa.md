@@ -31,4 +31,4 @@ Liście młodych rzodkiewek również są jadalne. Można udekorować nimi sała
 
 Warzywo to doskonale nadaje się także do duszenia, smażenia i gotowania. Na surowo jest nieodzownym składnikiem kanapek i sałatek, a na ciepło zup i zapiekanek. Warto założyć swoją własną ekologiczną hodowlę rzodkiewek i cieszyć się smakiem zebranych przez siebie warzyw.
 
-Od siebie serdecznie mogę polecić skup warzyw[Skup warzyw](https://polmar.net/skup-warzyw)
+Od siebie serdecznie mogę polecić [Skup warzyw](https://polmar.net/skup-warzyw)
